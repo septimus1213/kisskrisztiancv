@@ -1,3 +1,4 @@
+import sys
 def Change(num):
     match num:
         case 0:
